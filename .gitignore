@@ -6,3 +6,7 @@ node_modules
 # Ignore everything under .claude/ EXCEPT the shipped role subagents (Layer B model pinning).
 .claude/*
 !.claude/agents/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
